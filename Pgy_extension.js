@@ -4,6 +4,8 @@
 // @version      1.3
 // @description  Show and update Feishu Table ID with a floating box (Persistent Storage)
 // @match        *://pgy.xiaohongshu.com/solar/*
+// @updateURL https://cdn.jsdelivr.net/gh/KaneYang-7/Pgy_extension/Pgy_extension.js
+// @downloadURL https://cdn.jsdelivr.net/gh/KaneYang-7/Pgy_extension/Pgy_extension.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
