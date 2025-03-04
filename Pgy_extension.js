@@ -17,7 +17,7 @@
   box.id = "tableIdBox";
   box.style.position = "fixed";
   box.style.bottom = "120px"; // Adjust to fit both buttons
-  box.style.right = "20px";
+  box.style.right = "30px";
   box.style.zIndex = "999999";
   box.style.padding = "10px";
   box.style.fontSize = "14px";
